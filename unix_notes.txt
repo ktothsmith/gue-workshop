@@ -1,0 +1,203 @@
+    1  cd \\
+    2  cd
+    3  cd ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    4  cd ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    5  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    6  sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /bin/subl
+    7  sublime .
+    8  subl .
+    9  pwd
+   10  cd
+   11  pwd
+   12  pwd
+   13  cd /
+   14  pwd
+   15  cd /Users/kristin
+   16  pwd
+   17  cd /
+   18  cd
+   19  pwd
+   20  ls
+   21  ls -t
+   22  ls
+   23  ls -l
+   24  ls -lt
+   25  ls -r
+   26  ls -rl
+   27  ls -rt
+   28  ls -rlt
+   29  ls -lrt
+   30  man ls
+   31  man ls
+   32  ls -1
+   33  ls -@
+   34  man ls
+   35  cd Documents
+   36  pwd
+   37  ls
+   38  ls -1
+   39  ls -l1
+   40  ls -l -1
+   41  ls -;
+   42  ls -l
+   43  pwd
+   44  cd
+   45  pwd
+   46  ls
+   47  ls
+   48  ls -l
+   49  pwd
+   50  cd Applications
+   51  pwd
+   52  cd pwd
+   53  cd
+   54  cd Applications/
+   55  cd ..
+   56  pwd
+   57  cd q
+   58  cd ..
+   59  pwd
+   60  pwd kristin/
+   61  pwd
+   62  cd kristin/
+   63  ls
+   64  cd Music
+   65  ls
+   66  cd iTunes/
+   67  pwd
+   68  ls
+   69  l s-l
+   70  ls -
+   71  ls -l
+   72  cd
+   73  pwd
+   74  cd D
+   75  cd Documents/
+   76  ls -l
+   77  cd Foundation/
+   78  ls ~
+   79  ls /
+   80  ls / -l
+   81  ls / -p
+   82  ls -p /
+   83  ls / -p
+   84  ls -l /
+   85  ls .
+   86  ls ...
+   87  pwd
+   88  ls ..
+   89  cd
+   90  pwd
+   91  history
+   92  cd
+   93  ls
+   94  history > moving_around.txt
+   95  ls
+   96  ls -t
+   97  less moving_around.txt
+   98  subl moving_around.txt
+   99  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  100  ls
+  101  mkdir bin
+  102  ls
+  103  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  104  subl --help
+  105  subl moving_around.txt 
+  106  cd Applications/
+  107  ls
+  108  pwd
+  109  ls -l
+  110  cd
+  111  cd bin
+  112  ls
+  113  cd
+  114  cd ..
+  115  cd ..
+  116  ls
+  117  cd applications
+  118  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  119  pwd
+  120  cd ..
+  121  ls
+  122  ls -t
+  123  cd
+  124  ls
+  125  rm bin
+  126  rmdir bin
+  127  cd bin
+  128  ls
+  129  rm subl
+  130  ls
+  131  cd
+  132  rmdir bin
+  133  ls
+  134  cd ..
+  135  ls
+  136  cd ..
+  137  ls
+  138  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  139  cd app
+  140  ls
+  141  cd Applications/
+  142  ls
+  143  /Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl .
+  144  nano ~/.bash_profile
+  145  ls
+  146  cd ..
+  147  ls
+  148  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  149  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  150  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+  151  ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" ~/bin/subl
+  152  sudo ln -s "/Applications/Sublime Text 2.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+  153  subl
+  154  sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+  155  rm -rf /usr/local/bin/subl
+  156  sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+  157  ls /usr/bin/subl
+  158  ls
+  159  ls /usr/bin
+  160  cd /usr/bin
+  161  ls
+  162  rm subl
+  163  sudo rm subl
+  164  ls
+  165  sudo ln -s "/Applications/Sublime Text.app/Contents/SharedSupport/bin/subl" /usr/bin/subl
+  166  subl
+  167  subl moving_around.txt
+  168  cd
+  169  subl moving_around.txt
+  170  mkdir gue_workshop
+  171  ls
+  172  moving_around.txt > gue_workshop
+  173  mv moving_around.txt ./gue_workshop/
+  174  ls
+  175  cd gue_workshop/
+  176  ls
+  177  cd
+  178  mv ./gue_workshop/moving_around.txt ./gue_workshop/unix_notes.txt
+  179  mv ./gue_workshop/foo.txt ./gue_workshop/bar.txt
+  180  ls
+  181  cd gue_workshop/
+  182  ls
+  183  man mv
+  184  man mkdir -p
+  185  cd
+  186  which git
+  187  git
+  188  sudo git
+  189  git
+  190  cd
+  191  cd gue_workshop/
+  192  git config --global user.name "Kristin Smith"
+  193  git config --global user.email "kristin@codefellows.com"
+  194  git global
+  195  git config
+  196  git config -l
+  197  git config --global user.name "ktothsmtih"
+  198  git config -l
+  199  ls
+  200  git init
+  201  status
+  202  git status
+  203  history > unix_notes.txt
