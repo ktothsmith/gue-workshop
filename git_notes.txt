@@ -1,0 +1,5 @@
+you can create a new, non-linear branch with the git branch command
+you can change the active branch with checkout
+then you can use 'touch' to create a new file
+this is getting a little more confusing
+
