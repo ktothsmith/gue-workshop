@@ -201,3 +201,10 @@
   201  status
   202  git status
   203  history > unix_notes.txt
+
+
+
+  there are hidden files on your computer that you can expose by saying ls -a (for all)
+  the .git repository is in these hidden files wherever you initialized the git repository
+
+  
