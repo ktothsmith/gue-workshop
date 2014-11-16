@@ -1,0 +1,11 @@
+you can create a new, non-linear branch with the git branch command
+you can change the active branch with checkout
+then you can use 'touch' to create a new file
+this is getting a little more confusing
+
+i do have to say that the remotes concept is something i really need more help with...
+the remote concept is where i lost it
+
+
+now i'm not quite sure where i want to put 'stuff' and how to do this...rats. i was so close.
+
